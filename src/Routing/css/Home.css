@@ -1,0 +1,33 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: left;
+    border: 2px solid #000;
+    width: 400px;
+    margin-top: 20px;
+}
+.navitem{
+    border: 1px solid #000;
+    padding: 20px;
+    width: 209px;
+    margin: 10px 10px 10px 75px;
+    border-radius: 20px;
+    color: #000;
+    text-align: center;
+}
+.section{
+    display: flex;
+    flex-direction: row;
+}
+.right_section{
+    border: 2px solid #000;
+    min-height:345px;
+    width: 110rem;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.left_section{
+    border-radius: 20px;
+}
